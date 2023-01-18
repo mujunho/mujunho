@@ -1,4 +1,4 @@
-# Olá, eu sou o Murillo Junho, estudo Desenvolvimento Web na Practicum Brasil! 👨‍🚀
+# Olá, eu sou o Murillo Junho, estudo Desenvolvimento Web!👨‍
 
 ## Nossas principais atribuições aprendidas no curso são 👨‍💻:
 	— Transformar layouts em sites e fazer com que fiquem visualmente agradáveis, funcionando bem em todos os dispositivos
